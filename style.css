@@ -1,0 +1,141 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 1;
+    letter-spacing: 1.2;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+* {
+    font-family: 'poppins', sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0;
+    background: #fff5e1;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 0;
+    overflow-x: hidden;
+    height: 100%;
+    width: 100%;
+}
+
+.logo {
+    width: 76%;
+    height: 20px;
+    top: 10px;
+    left: 12px;
+    color: #6077ff;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    text-decoration: none;
+}
+
+.head-section {
+  display: flex;
+  flex-direction: column;
+  padding: 40px;
+  background-repeat: no-repeat;
+  background-position: top 80px right 0;
+  background-image: url(./images/background.png);
+  border-top-left-radius: 80px;
+  background-size: cover;
+}
+
+nav {
+    display: flex;
+    margin-top: 20px;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+#list-items {
+    display: none;
+}
+
+li {
+    font-style: normal;
+    font-weight: 500;
+    color: #334563;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.bio {
+  margin: 200px auto;
+  padding-bottom: 10px;
+}
+
+h1 {
+  max-width: 80vw;
+  max-height: 70vh;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 60px;
+  color: #172b4d;
+  margin: 0 10px;
+}
+
+p {
+  max-width: 100vw;
+  max-height: 60vh;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 28px;
+  color: #334565;
+  margin:  10px;
+}
+
+h2 {
+  max-width: 100vw;
+  font-style: normal;
+  max-height: 100vh;
+  text-transform: uppercase;
+  font-size: 16px;
+  margin: 0 10px;
+  line-height: 24px;
+  color: #7f8cff;
+  font-weight: 500;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+  margin-left: 14px;
+}
+
+.social-icons {
+  margin-top: 20px;
+  margin-bottom: 17px;
+  transition: all 0.2s ease-in-out; 
+}
+
+.social-icons:hover {
+  transform: scale(1.1);
+}
