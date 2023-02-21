@@ -24,7 +24,7 @@
 
 
 
-- [Live Demo Link]([https://yourdeployedapplicationlink.com](https://github.com/SSEKA/Portolio.git))
+- [Live Demo Link]([https://yourdeployedapplicationlink.com](https://github.com/SSEKA/my-portfolio.git))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -35,7 +35,7 @@
 
 
 To get a local copy up and running, follow these steps.
-visit https://github.com/SSEKA/Portolio.git
+visit https://github.com/SSEKA/my-portfolio.git
 
 ### Prerequisites
 
@@ -53,7 +53,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone (https://github.com/SSEKA/Portolio.git)
+  git clone (https://github.com/SSEKA/my-portfolio.git)
 ```
 --->
 
