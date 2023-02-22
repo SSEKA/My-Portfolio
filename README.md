@@ -1,4 +1,4 @@
-# My-Portfolio
+a# My-Portfolio
 <div align="center">
   
 
@@ -10,21 +10,30 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖  Portfolio <a name="about-project"></a>
+# 📖  [Portfolio] <a href="https://github.com/SSEKA/My-Portfolio.git"></a>
 
-> A personal portfolio of Magembe Ssekayi. A simple html and css project website
+ A personal portfolio of Magembe Ssekayi. A simple html and css mobile version of portfolio
 
-
-
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With <a name="built-with">Html and css</a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Html and Css
+Details
+<ul>
+    <li><a href="https://html.org/">Html</a></li>
+  </ul>
+  <ul>
+    <li><a href="https://www.CSS.org/">CSS</a></li>
+  </ul>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
 
 
+- **[add main tag element]**
 
-- [Live Demo Link]([https://yourdeployedapplicationlink.com](https://github.com/SSEKA/My-Portfolio.git))
+- **[add div tag with class attribute to main tag to style]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -48,75 +57,42 @@ Code editor
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
 
 ```sh
   cd my-folder
-  git clone (https://github.com/SSEKA/My-Portfolio.git)
+  git clone git@github.com:SSEKA/My-Portfolio.git
 ```
---->
+-
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
+
 
 ```sh
-  cd my-project
-  gem install
+  cd My-Portfolio
+  npm install
 ```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-Magembe Ssekayi
-
-👤 **Author1**
+👤 **Magembe Ssekayi**
 
 - GitHub: [@githubhandle](https://github.com/SSEKA))
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [] Add more content in the page
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -125,7 +101,7 @@ Magembe Ssekayi
 Contributions, issues, and feature requests are welcome!
 Alot of work still needs to be done
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/SSEKA/My-Portfolio.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,3 +127,5 @@ I would like to extend a great appreciation to my coding partners at microverse.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
