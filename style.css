@@ -25,7 +25,7 @@ html {
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #fff;
   height: 100vh;
   background-image: url(./images/background.png);
   background-size: 100%;
@@ -57,7 +57,7 @@ header {
   background-repeat: no-repeat;
   background-position: top 80px right 0;
   border-top-left-radius: 80px;
-  background-size: cover;  
+  background-size: cover;
 }
 
 nav {
@@ -89,25 +89,27 @@ li {
 
 .bio {
   margin: 50px 0;
-  /* background-image: url("./images/background-white.png");*/
+
+  /* background-image: url("./images/background-white.png"); */
   background-size: 100%;
   background-repeat: no-repeat;
   padding: 10px;
   padding-bottom: 118px;
-  border-bottom-left-radius: 15rem; 
-  
+  border-bottom-left-radius: 15rem;
 }
 
 h1 {
   max-width: 80vw;
-  font-family: 'Poppins';
-  /*height: 100px;*/
+  font-family: 'Poppins', sans-serif;
+
+  /* height: 100px; */
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
   color: #172b4d;
-  /*margin: 0 10px;*/
+
+  /* margin: 0 10px; */
   display: flex;
   align-items: center;
 }
