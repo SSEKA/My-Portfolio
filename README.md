@@ -31,7 +31,7 @@ Details
 ### Key Features <a name="key-features"></a>
 
 
-- **[add main tag element]**
+- **[add main div-tag element]**
 
 - **[add div tag with class attribute to main tag to style]**
 
