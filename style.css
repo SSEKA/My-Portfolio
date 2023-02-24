@@ -24,10 +24,6 @@ html {
 body {
   background-color: #e5e5e5;
   height: 100vh;
-
-  /* font-size: 12px;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 700; */
 }
 
 .logo {
@@ -55,8 +51,6 @@ body {
 
 nav {
   display: flex;
-
-  /* margin-top: 10px; */
   padding: 10px;
   justify-content: space-between;
   align-items: center;
@@ -98,8 +92,6 @@ li {
 h2 {
   max-width: 80vw;
   padding-top: 40px;
-
-  /* padding-top: 100px; */
   font-family: 'Poppins', sans-serif;
   max-height: 75%;
   font-style: normal;
@@ -109,8 +101,6 @@ h2 {
   color: #172b4d;
   width: 327px;
   height: 150px;
-
-  /* margin: 0 10px; */
   display: flex;
   align-items: center;
 }
@@ -124,7 +114,9 @@ p {
   line-height: 28px;
   color: #344563;
   margin: 10px;
-  text-align: justify;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding-top: 20px;
 }
 
